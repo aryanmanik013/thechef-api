@@ -1,0 +1,844 @@
+.aside {
+  background-color: #1e1e2d;
+  }
+    .multiselect-native-select{
+      width:100%;
+      float:left;
+  }
+.timeline.timeline-5 .timeline-item .timeline-badge
+{
+    margin-left:-2.4rem;
+}
+  .timeline.timeline-5:before {
+    content: '';
+    position: absolute;
+    left: 121.5px;
+    width: 4px;
+    top: 0;
+    bottom: 0;
+    background-color: #EBEDF3;
+}
+.nav-link i{
+        float: left;
+    margin-right: 5px;
+}
+.timeline.timeline-5 .timeline-item .timeline-label {
+    width: 145px;
+}
+  .multiselect-native-select .btn-group{
+      width:100%;
+  }
+  .fv-plugins-icon-container{
+      width:100%;
+      float:left;
+  }
+  .multiselect-item .checkbox{
+      float:left;
+  }
+  .btn.btn-icon.btn-sm, .btn-group-sm > .btn.btn-icon{
+      height:24px !important;
+      width:24px !important;
+  }
+  
+  .multiselect-native-select .btn.btn-default:hover{
+      background:transparent !important;
+             color: #635d63 !important;
+  }
+  .multiselect-native-select .btn.btn-default:hover .btn.btn-default.dropdown-toggle:after{
+ color: #635d63 !important;
+  }
+  .multiselect-selected-text{
+      width: 97%;
+    float: left;
+  }
+  .multiselect-native-select .btn.btn-default:not(:disabled):not(.disabled):active:not(.btn-text), .btn.btn-default:not(:disabled):not(.disabled).active, .show > .btn.btn-default.dropdown-toggle, .show .btn.btn-default.btn-dropdown{
+      background:transparent !important;
+       color: #635d63 !important;
+  }
+  .multiselect-container>li>a>label>input[type=checkbox]{
+      margin:5px;float:left;
+  }
+  .multiselect-native-select .dropdown-menu.show{
+      width:100%;
+  }
+  .multiselect-native-select .btn.btn-default {
+    text-align: left;
+    color: #635d63;
+    background-color: transparent;
+    border-color: #e4e6ef;
+}
+.select2-container {
+    width: 100% !important;
+}
+  .aside .aside-menu.ps > .ps__rail-x {
+    background-color: transparent; }
+    .aside .aside-menu.ps > .ps__rail-x:hover, .aside .aside-menu.ps > .ps__rail-x:focus {
+      opacity: 1;
+      background-color: transparent; }
+      .aside .aside-menu.ps > .ps__rail-x:hover > .ps__thumb-x, .aside .aside-menu.ps > .ps__rail-x:focus > .ps__thumb-x {
+        opacity: 1; }
+    .aside .aside-menu.ps > .ps__rail-x > .ps__thumb-x {
+      background-color: #637099;
+      opacity: 1; }
+      .aside .aside-menu.ps > .ps__rail-x > .ps__thumb-x:hover, .aside .aside-menu.ps > .ps__rail-x > .ps__thumb-x:focus {
+        opacity: 1;
+        background-color: #637099; }
+  .aside .aside-menu.ps > .ps__rail-y {
+    background-color: transparent; }
+    .aside .aside-menu.ps > .ps__rail-y:hover, .aside .aside-menu.ps > .ps__rail-y:focus {
+      background-color: transparent;
+      opacity: 1; }
+      .aside .aside-menu.ps > .ps__rail-y:hover > .ps__thumb-y, .aside .aside-menu.ps > .ps__rail-y:focus > .ps__thumb-y {
+        opacity: 1; }
+    .aside .aside-menu.ps > .ps__rail-y > .ps__thumb-y {
+      background: #637099;
+      opacity: 1; }
+      .aside .aside-menu.ps > .ps__rail-y > .ps__thumb-y:hover, .aside .aside-menu.ps > .ps__rail-y > .ps__thumb-y:focus {
+        opacity: 1;
+        background: #637099; }
+
+.aside-menu {
+  background-color: #2f3f4e;
+  }
+  .aside-menu .menu-nav > .menu-item > .menu-heading .menu-text,
+  .aside-menu .menu-nav > .menu-item > .menu-link .menu-text {
+    color: #fff;
+    }
+  .aside-menu .menu-nav > .menu-item > .menu-heading .menu-icon,
+  .aside-menu .menu-nav > .menu-item > .menu-link .menu-icon {
+    color: #fff;
+    }
+    .aside-menu .menu-nav > .menu-item > .menu-heading .menu-icon.svg-icon svg g [fill],
+    .aside-menu .menu-nav > .menu-item > .menu-link .menu-icon.svg-icon svg g [fill] {
+      -webkit-transition: fill 0.3s ease;
+      transition: fill 0.3s ease;
+      fill: #ffffff;
+      }
+    .aside-menu .menu-nav > .menu-item > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+    .aside-menu .menu-nav > .menu-item > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+      -webkit-transition: fill 0.3s ease;
+      transition: fill 0.3s ease; }
+  .aside-menu .menu-nav > .menu-item > .menu-heading .menu-bullet.menu-bullet-dot > span,
+  .aside-menu .menu-nav > .menu-item > .menu-link .menu-bullet.menu-bullet-dot > span {
+    background-color: #5c5e81 ; }
+  .aside-menu .menu-nav > .menu-item > .menu-heading .menu-bullet.menu-bullet-line > span,
+  .aside-menu .menu-nav > .menu-item > .menu-link .menu-bullet.menu-bullet-line > span {
+    background-color: #5c5e81 ; }
+  .aside-menu .menu-nav > .menu-item > .menu-heading .menu-arrow,
+  .aside-menu .menu-nav > .menu-item > .menu-link .menu-arrow {
+    color: #fff ; }
+  .aside-menu .menu-nav > .menu-item.menu-item-open {
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s; }
+    .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-heading,
+    .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-link {
+      background-color: #e39724;
+      }
+      .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-heading .menu-text,
+      .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-link .menu-text {
+        color: #ffffff ; }
+      .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-heading .menu-icon,
+      .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-link .menu-icon {
+        color: #fff ; }
+        .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-heading .menu-icon.svg-icon svg g [fill],
+        .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-link .menu-icon.svg-icon svg g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease;
+          fill: #fff; }
+        .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+        .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease; }
+      .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-heading .menu-bullet.menu-bullet-dot > span,
+      .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-link .menu-bullet.menu-bullet-dot > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-heading .menu-bullet.menu-bullet-line > span,
+      .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-link .menu-bullet.menu-bullet-line > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-heading .menu-arrow,
+      .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-link .menu-arrow {
+        color: #ffffff ; }
+  .aside-menu .menu-nav > .menu-item.menu-item-here {
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s; }
+    .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-heading,
+    .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-link {
+      background-color: #1b1b28 ; }
+      .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-heading .menu-text,
+      .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-link .menu-text {
+        color: #ffffff ; }
+      .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-heading .menu-icon,
+      .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-link .menu-icon {
+        color: #3699FF ; }
+        .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-heading .menu-icon.svg-icon svg g [fill],
+        .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-link .menu-icon.svg-icon svg g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease;
+          fill: #3699FF; }
+        .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+        .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease; }
+      .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-heading .menu-bullet.menu-bullet-dot > span,
+      .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-link .menu-bullet.menu-bullet-dot > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-heading .menu-bullet.menu-bullet-line > span,
+      .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-link .menu-bullet.menu-bullet-line > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-heading .menu-arrow,
+      .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-link .menu-arrow {
+        color: #ffffff ; }
+  .aside-menu .menu-nav > .menu-item.menu-item-active {
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s; }
+    .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-heading,
+    .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-link {
+      background-color: #e39724;
+      }
+      .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-heading .menu-text,
+      .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-link .menu-text {
+        color: #ffffff ; }
+      .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-heading .menu-icon,
+      .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-link .menu-icon {
+        color: #fff;
+        }
+        .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-heading .menu-icon.svg-icon svg g [fill],
+        .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-link .menu-icon.svg-icon svg g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease;
+          fill: #ffffff;
+          }
+        .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+        .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease; }
+      .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-heading .menu-bullet.menu-bullet-dot > span,
+      .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-link .menu-bullet.menu-bullet-dot > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-heading .menu-bullet.menu-bullet-line > span,
+      .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-link .menu-bullet.menu-bullet-line > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-heading .menu-arrow,
+      .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-link .menu-arrow {
+        color: #ffffff ; }
+  .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover {
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s; }
+    .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading,
+    .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link {
+      background-color: #e39724;
+      }
+      .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-text,
+      .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-text {
+        color: #ffffff ; }
+      .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon,
+      .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon {
+        color: #fff;
+        }
+        .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon.svg-icon svg g [fill],
+        .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon.svg-icon svg g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease;
+          fill: #ffffff;
+          }
+        .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+        .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease; }
+      .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-bullet.menu-bullet-dot > span,
+      .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-bullet.menu-bullet-dot > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-bullet.menu-bullet-line > span,
+      .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-bullet.menu-bullet-line > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-arrow,
+      .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-arrow {
+        color: #ffffff ; }
+  .aside-menu .menu-nav > .menu-item > .menu-arrow {
+    color: #1e1e2d; }
+  .aside-menu .menu-nav > .menu-section .menu-text {
+    color: #4c4e6f ; }
+  .aside-menu .menu-nav > .menu-section .menu-icon {
+    color: #4c4e6f ; }
+  .aside-menu .menu-nav > .menu-separator {
+    border-bottom: 1px solid #4c4e6f ; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-heading .menu-text,
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-link .menu-text {
+    color: #9899ac ; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-heading .menu-icon,
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-link .menu-icon {
+    color: #494b74 ; }
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-heading .menu-icon.svg-icon svg g [fill],
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-link .menu-icon.svg-icon svg g [fill] {
+      -webkit-transition: fill 0.3s ease;
+      transition: fill 0.3s ease;
+      fill: #494b74; }
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+      -webkit-transition: fill 0.3s ease;
+      transition: fill 0.3s ease; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-heading .menu-bullet.menu-bullet-dot > span,
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-link .menu-bullet.menu-bullet-dot > span {
+    background-color: #5c5e81 ; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-heading .menu-bullet.menu-bullet-line > span,
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-link .menu-bullet.menu-bullet-line > span {
+    background-color: #5c5e81 ; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-heading .menu-arrow,
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item > .menu-link .menu-arrow {
+    color: #5c5e81 ; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open {
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s; }
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-heading,
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-link {
+      background-color: #1b1b28 ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-heading .menu-text,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-link .menu-text {
+        color: #ffffff ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-heading .menu-icon,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-link .menu-icon {
+        color: #5c5e81;
+        }
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-heading .menu-icon.svg-icon svg g [fill],
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-link .menu-icon.svg-icon svg g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease;
+          fill: #3699FF; }
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-heading .menu-bullet.menu-bullet-dot > span,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-link .menu-bullet.menu-bullet-dot > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-heading .menu-bullet.menu-bullet-line > span,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-link .menu-bullet.menu-bullet-line > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-heading .menu-arrow,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-open > .menu-link .menu-arrow {
+        color: #ffffff ; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here {
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s; }
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-heading,
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-link {
+      background-color: #1b1b28 ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-heading .menu-icon,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-link .menu-icon {
+        color: #3699FF ; }
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-heading .menu-icon.svg-icon svg g [fill],
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-link .menu-icon.svg-icon svg g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease;
+          fill: #3699FF; }
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-heading .menu-bullet.menu-bullet-dot > span,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-link .menu-bullet.menu-bullet-dot > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-heading .menu-bullet.menu-bullet-line > span,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-link .menu-bullet.menu-bullet-line > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-heading .menu-arrow,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-here > .menu-link .menu-arrow {
+        color: #ffffff ; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active {
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s; }
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-heading,
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-link {
+      background-color: #1b1b28 ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-heading .menu-text,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-link .menu-text {
+        color: #ffffff ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-heading .menu-icon,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-link .menu-icon {
+        color: #5c5e81;
+        }
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-heading .menu-icon.svg-icon svg g [fill],
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-link .menu-icon.svg-icon svg g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease;
+          fill: #5c5e81;
+          }
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-heading .menu-bullet.menu-bullet-dot > span,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-link .menu-bullet.menu-bullet-dot > span {
+        background-color: #57597a;
+        }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-heading .menu-bullet.menu-bullet-line > span,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-link .menu-bullet.menu-bullet-line > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-heading .menu-arrow,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item.menu-item-active > .menu-link .menu-arrow {
+        color: #ffffff ; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover {
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s; }
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading,
+    .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link {
+      background-color: #e39724;
+      }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-text,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-text {
+        color: #ffffff ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon {
+        color: #57597a ; }
+        .dataTables_wrapper .dataTable th.sorting_desc, .dataTables_wrapper .dataTable td.sorting_desc {
+    color: #b5b5cf !important;
+}
+.nav .show > .nav-link .nav-icon i, .nav .nav-link:hover:not(.disabled) .nav-icon i, .nav .nav-link.active .nav-icon i {
+   
+    color: #b5b5c3 !important;
+}
+.nav .show > .nav-link .nav-text, .nav .nav-link:hover:not(.disabled) .nav-text, .nav .nav-link.active .nav-text {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    color: #7e8299 !important;
+}
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon.svg-icon svg g [fill],
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon.svg-icon svg g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease;
+          fill: #57597a; }
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+        .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-bullet.menu-bullet-dot > span,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-bullet.menu-bullet-dot > span {
+        background-color: #fff ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-bullet.menu-bullet-line > span,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-bullet.menu-bullet-line > span {
+        background-color: #3699FF ; }
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-arrow,
+      .aside-menu .menu-nav > .menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-arrow {
+        color: #ffffff ; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-section .menu-text {
+    color: #4c4e6f ; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-section .menu-icon {
+    color: #4c4e6f ; }
+  .aside-menu .menu-nav > .menu-item .menu-submenu .menu-separator {
+    border-bottom: 1px solid #4c4e6f ; }
+
+@media (min-width: 992px) {
+  .aside-minimize .aside-menu .menu-nav > .menu-item {
+    background: transparent; }
+    .aside-minimize .aside-menu .menu-nav > .menu-item > .menu-link > .menu-icon {
+      color: #7c87a6; }
+    .aside-minimize .aside-menu .menu-nav > .menu-item.menu-item-hover, .aside-minimize .aside-menu .menu-nav > .menu-item.menu-item-open {
+      background: transparent !important; }
+      .aside-minimize .aside-menu .menu-nav > .menu-item.menu-item-hover > .menu-link > .menu-icon, .aside-minimize .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-link > .menu-icon {
+        color: #3699FF ; }
+    .aside-minimize .aside-menu .menu-nav > .menu-item.menu-item-here, .aside-minimize .aside-menu .menu-nav > .menu-item.menu-item-active {
+      background: transparent !important; }
+      .aside-minimize .aside-menu .menu-nav > .menu-item.menu-item-here > .menu-link > .menu-icon, .aside-minimize .aside-menu .menu-nav > .menu-item.menu-item-active > .menu-link > .menu-icon {
+        color: #3699FF ; }
+    .aside-minimize .aside-menu .menu-nav > .menu-item:hover {
+      background: transparent; }
+      .aside-minimize .aside-menu .menu-nav > .menu-item:hover > .menu-link > .menu-icon {
+        color: #3699FF !important; } }
+
+@media (min-width: 992px) {
+  .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu,
+  .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu {
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 50px 0px rgba(82, 63, 105, 0.15);
+    box-shadow: 0px 0px 50px 0px rgba(82, 63, 105, 0.15); }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-text,
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-text,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-text,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-text {
+      color: #696e92 ; }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-icon,
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-icon,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-icon,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-icon {
+      color: #a8aabb ; }
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-icon.svg-icon svg g [fill],
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-icon.svg-icon svg g [fill],
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-icon.svg-icon svg g [fill],
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-icon.svg-icon svg g [fill] {
+        -webkit-transition: fill 0.3s ease;
+        transition: fill 0.3s ease;
+        fill: #a8aabb; }
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-icon.svg-icon svg:hover g [fill],
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+        -webkit-transition: fill 0.3s ease;
+        transition: fill 0.3s ease; }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-bullet.menu-bullet-dot > span,
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-bullet.menu-bullet-dot > span,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-bullet.menu-bullet-dot > span,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-bullet.menu-bullet-dot > span {
+      background-color: #a8aabb ; }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-bullet.menu-bullet-line > span,
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-bullet.menu-bullet-line > span,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-bullet.menu-bullet-line > span,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-bullet.menu-bullet-line > span {
+      background-color: #a8aabb ; }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-arrow,
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-arrow,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-heading .menu-arrow,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item > .menu-link .menu-arrow {
+      color: #a8aabb ; }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open {
+      -webkit-transition: background-color 0.3s;
+      transition: background-color 0.3s; }
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading,
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link,
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading,
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link {
+        background-color: #F3F6F9 ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-text,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-text,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-text,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-text {
+          color: #3699FF ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-icon,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-icon,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-icon,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-icon {
+          color: #3699FF ; }
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-icon.svg-icon svg g [fill],
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-icon.svg-icon svg g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-icon.svg-icon svg g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-icon.svg-icon svg g [fill] {
+            -webkit-transition: fill 0.3s ease;
+            transition: fill 0.3s ease;
+            fill: #3699FF; }
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-icon.svg-icon svg:hover g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+            -webkit-transition: fill 0.3s ease;
+            transition: fill 0.3s ease; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-bullet.menu-bullet-dot > span,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-bullet.menu-bullet-dot > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-bullet.menu-bullet-dot > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-bullet.menu-bullet-dot > span {
+          background-color: #3699FF ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-bullet.menu-bullet-line > span,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-bullet.menu-bullet-line > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-bullet.menu-bullet-line > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-bullet.menu-bullet-line > span {
+          background-color: #3699FF ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-arrow,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-arrow,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-heading .menu-arrow,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-open > .menu-link .menu-arrow {
+          color: #3699FF ; }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here {
+      -webkit-transition: background-color 0.3s;
+      transition: background-color 0.3s; }
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-heading,
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-link,
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-heading,
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-link {
+        background-color: #F3F6F9 ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-heading .menu-icon.svg-icon svg g [fill],
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-link .menu-icon.svg-icon svg g [fill],
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-heading .menu-icon.svg-icon svg g [fill],
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-link .menu-icon.svg-icon svg g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-link .menu-icon.svg-icon svg:hover g [fill],
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+          -webkit-transition: fill 0.3s ease;
+          transition: fill 0.3s ease; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-heading .menu-bullet.menu-bullet-dot > span,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-link .menu-bullet.menu-bullet-dot > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-heading .menu-bullet.menu-bullet-dot > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-link .menu-bullet.menu-bullet-dot > span {
+          background-color: #3699FF ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-heading .menu-bullet.menu-bullet-line > span,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-link .menu-bullet.menu-bullet-line > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-heading .menu-bullet.menu-bullet-line > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-here > .menu-link .menu-bullet.menu-bullet-line > span {
+          background-color: #3699FF ; }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active {
+      -webkit-transition: background-color 0.3s;
+      transition: background-color 0.3s; }
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading,
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link,
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading,
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link {
+        background-color: #F3F6F9 ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-text,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-text,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-text,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-text {
+          color: #3699FF ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-icon,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-icon,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-icon,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-icon {
+          color: #3699FF ; }
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-icon.svg-icon svg g [fill],
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-icon.svg-icon svg g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-icon.svg-icon svg g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-icon.svg-icon svg g [fill] {
+            -webkit-transition: fill 0.3s ease;
+            transition: fill 0.3s ease;
+            fill: #3699FF; }
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-icon.svg-icon svg:hover g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+            -webkit-transition: fill 0.3s ease;
+            transition: fill 0.3s ease; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-bullet.menu-bullet-dot > span,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-bullet.menu-bullet-dot > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-bullet.menu-bullet-dot > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-bullet.menu-bullet-dot > span {
+          background-color: #3699FF ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-bullet.menu-bullet-line > span,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-bullet.menu-bullet-line > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-bullet.menu-bullet-line > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-bullet.menu-bullet-line > span {
+          background-color: #3699FF ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-arrow,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-arrow,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-heading .menu-arrow,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item.menu-item-active > .menu-link .menu-arrow {
+          color: #3699FF ; }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover {
+      -webkit-transition: background-color 0.3s;
+      transition: background-color 0.3s; }
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading,
+      .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link,
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading,
+      .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link {
+        background-color: #F3F6F9 ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-text,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-text,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-text,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-text {
+          color: #3699FF ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon {
+          color: #3699FF ; }
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon.svg-icon svg g [fill],
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon.svg-icon svg g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon.svg-icon svg g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon.svg-icon svg g [fill] {
+            -webkit-transition: fill 0.3s ease;
+            transition: fill 0.3s ease;
+            fill: #3699FF; }
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+          .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon.svg-icon svg:hover g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-icon.svg-icon svg:hover g [fill],
+          .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-icon.svg-icon svg:hover g [fill] {
+            -webkit-transition: fill 0.3s ease;
+            transition: fill 0.3s ease; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-bullet.menu-bullet-dot > span,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-bullet.menu-bullet-dot > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-bullet.menu-bullet-dot > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-bullet.menu-bullet-dot > span {
+          background-color: #3699FF ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-bullet.menu-bullet-line > span,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-bullet.menu-bullet-line > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-bullet.menu-bullet-line > span,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-bullet.menu-bullet-line > span {
+          background-color: #3699FF ; }
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-arrow,
+        .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-arrow,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading .menu-arrow,
+        .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link .menu-arrow {
+          color: #3699FF ; }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-section .menu-text,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-section .menu-text {
+      color: #a4a7bd ; }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-section .menu-icon,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-section .menu-icon {
+      color: #aaacc2 ; }
+    .aside-minimize .aside-menu .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-separator,
+    .aside-menu.aside-menu-dropdown .menu-nav .menu-item:not([data-menu-submenu-mode=accordion]).menu-item-hover > .menu-submenu .menu-subnav .menu-separator {
+      border-bottom: 1px solid rgba(0, 0, 0, 0.07) ; } }
+.kt-portlet {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-shadow: 0px 0px 13px 0px rgba(82, 63, 105, 0.05);
+    box-shadow: 0px 0px 13px 0px rgba(82, 63, 105, 0.05);
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+.kt-portlet {
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.kt-portlet .kt-portlet__head {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    position: relative;
+    /* padding: 0 25px; */
+    border-bottom: 1px solid #ebedf2;
+    /* min-height: 60px; */
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+.kt-portlet .kt-portlet__head {
+    -webkit-transition: left 0.3s, right 0.3s, height 0.3s;
+    transition: left 0.3s, right 0.3s, height 0.3s;
+}
+.kt-portlet .kt-portlet__head {
+    -webkit-transition: height 0.3s;
+    transition: height 0.3s;
+}
+.kt-portlet__head-toolbar {
+    float: left;
+    width: auto;
+}
+
+.nav.nav-tabs.nav-tabs-line.nav-tabs-line-3x {
+    border-bottom-width: 3px;
+}
+.nav-tabs {
+    border-bottom: 1px solid #E4E6EF;
+}
+.nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.nav.nav-tabs.nav-tabs-line.nav-tabs-line-3x .nav-item {
+    margin-bottom: -3px;
+}
+.nav.nav-tabs.nav-tabs-line .nav-item {
+    margin: 0 0 -1px 0;
+}
+.nav.nav-tabs .nav-item {
+    margin-right: 0.25rem;
+}
+.nav-tabs .nav-item {
+    margin-bottom: -1px;
+}
+#kt_contacts_view_tab_1 i{
+        float: left;
+    margin-top: 9px;
+    margin-right: 10px;
+}
+.btn-success i{
+        margin-top: 0px !important;
+}
+.btn-success:hover{
+    background-color:#c3332e !important;
+    border-color:#c3332e !important;
+}
+.kt-portlet__head-title{
+    margin: 0;
+    float:left;
+    font-weight: 600;
+    font-size: 1rem;
+    border-bottom-width: 1px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.btn-success {
+    color: #ffffff;
+    background-color: #1e1e2d !important;
+    border-color: #1e1e2d !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.symbol.symbol-light-success .symbol-label {
+    background-color: #2f3f4e !important;
+    color: #e39724 !important;
+}
+.btn.btn-clean .svg-icon svg g [fill] {
+    -webkit-transition: fill 0.3s ease;
+    transition: fill 0.3s ease;
+    fill: #e39724 !important;
+}
+.btn.btn-primary {
+    color: #FFFFFF;
+    background-color: #2f3f4e !important;
+    border-color: #2f3f4e !important;
+}
+.btn.btn-primary:hover:not(.btn-text):not(:disabled):not(.disabled), .btn.btn-primary:focus:not(.btn-text), .btn.btn-primary.focus:not(.btn-text) {
+    color: #FFFFFF;
+    background-color: #e39724 !important;
+    border-color: #e39724 !important;
+}
+
+element.style {
+}
+.dataTables_wrapper .dataTables_paginate .pagination .page-item.active > .page-link {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #2f3f4e !important;
+    color: #ffffff;
+}
+.dataTables_wrapper .dataTables_paginate .pagination .page-item:hover:not(.disabled) > .page-link {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #e39724 !important;
+    color: #ffffff;
+}
+@media (min-width: 992px){
+.header-fixed.subheader-fixed .subheader {
+  
+    border-top: 1px solid #f8b919 !important;
+    margin: 0;
+}
+}
+.btn-success:hover {
+    background-color: #e39724 !important;
+    border-color: #e39724 !important;
+}
+.nav .show > .nav-link, .nav .nav-link:hover:not(.disabled), .nav .nav-link.active {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    color: #e39724 !important;
+}
+a.text-hover-primary:hover, .text-hover-primary:hover {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    color: #e39724 !important;
+}
